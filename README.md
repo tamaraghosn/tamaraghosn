@@ -2,11 +2,11 @@
 <h3 align="center">A Junior backend developer specializing in Spring Boot</h3> 
 <br>
 
-• 🚧 Currently building: <b>Event Ticketing Manager</b> (Spring Boot + Keycloak + Docker) <br><br>
+• 🚧 Currently building: Event Ticketing Manager  <b> (Spring Boot + Keycloak + Docker) </b><br><br>
 • 🌱 Learning advanced <b>backend architecture</b> and best practices in <b>REST API</b> design   <br><br>
 • 🔐 Improving in <b>Spring Security, JWT authentication, RBAC, and endpoint protection</b>   <br><br>
 • 🗄️ Strong experience with <b>Spring Boot, Spring Data JPA, Hibernate, PostgreSQL</b>   <br><br>
-• 🧪 Enhancing skills in <b>unit testing</b> and <b>mock testing</b>   <br><br>
+• 🧪 Building skills in <b>Unit Testing</b> and <b>Mock Testing</b>   <br><br>
 • 👩‍💻 My work: https://github.com/tamaraghosn   <br><br>
 • 📫 Email: tamaraghosn01@gmail.com   <br><br>
 • 🔗 LinkedIn: https://www.linkedin.com/in/tamara-ghosn/
